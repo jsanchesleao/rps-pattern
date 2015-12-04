@@ -1,0 +1,10 @@
+.todo-list-component .list-group-item {
+  cursor: pointer; }
+  .todo-list-component .list-group-item.pending {
+    background-color: #EEE; }
+    .todo-list-component .list-group-item.pending:hover {
+      background-color: #DDD; }
+  .todo-list-component .list-group-item.done {
+    background-color: #EFE; }
+    .todo-list-component .list-group-item.done:hover {
+      background-color: #DFD; }
