@@ -1,0 +1,22 @@
+.todo-list-component {
+  .list-group-item {
+    cursor: pointer;
+
+    &.pending {
+      background-color: #EEE;
+
+      &:hover {
+        background-color: #DDD;
+      }
+    }
+
+    &.done {
+      background-color: #EFE;
+
+      &:hover {
+        background-color: #DFD;
+      }
+    }
+
+  }
+}
