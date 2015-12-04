@@ -6,7 +6,7 @@ It uses _React_ for the view, _Redux_ for state management and _js-csp_ for proc
 
 This repository serves both as an explanation of the pattern and as a boilerplate to start new apps using it.
 
-[See the app running](https://github.com/jsanchesleao/rps-pattern)
+[See the app running](http://jsanchesleao.github.io/rps-pattern/)
 
 
 First of all, if you want to run the boilerpĺate, that is a demo "todo list" app, just clone this repository, npm install and npm start:
